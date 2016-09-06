@@ -1,0 +1,3 @@
+Thanks for using this!!!
+
+To use this library, Copy the 'Color' folder to the Arduino 'libraries' folder...
