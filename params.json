@@ -1,0 +1,6 @@
+{
+  "name": "TCS3200 color sensor",
+  "tagline": "TCS3200 RGB color sensor library for Arduino!",
+  "body": "### Welcome to TCS3200 Library!\r\nTCS3200 Color sensor module for Arduino is a pretty cool thing to deal with. With the help of this module, we can differentiate colors at a higher accuracy. This is very important when it comes to building robots detecting colors and related stuff!!!\r\n\r\n### Usage\r\nI had to use this sensor in one my robot projects. This module came in very handy to detect different color boxes for the robot to pick! But the code was a chaos. So I thought about coming up with a simple library! Then the code reduced; robot simplified!!!\r\n\r\n### How to use\r\nThis package contains a folder named 'Color'. Copy that to your Arduino libraries folder. If you have an Arduino window open, then you need to close it to import the library into your project. Once imported, it's pretty simple to use it. Try the example and see for yourself :D\r\n\r\n### Support or Contact\r\nHaving trouble with this library? Try the example or just contact me and I’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
